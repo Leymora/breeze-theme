@@ -1,11 +1,25 @@
 {
     "name": "breeze-theme",
     "displayName": "Breeze Theme",
-    "description": "The Breeze Engine theme!",
+    "description": "The color theme from Breeze Engine",
     "version": "0.0.1",
+    "publisher": "Woosh",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SentimentalWoosh/breeze-theme"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "woosh",
+        "breeze engine",
+        "breeze theme",
+        "dawn",
+        "graphite"
+    ],
     "categories": [
         "Themes"
     ],
@@ -14,12 +28,12 @@
             {
                 "label": "Breeze - Dawn",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Breeze-color-theme.json"
+                "path": "./themes/Dawn-Breeze-color-theme.json"
             },
             {
                 "label": "Breeze - Graphite",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Breeze-color-theme-graphite.json"
+                "path": "./themes/Graphite-Breeze-color-theme.json"
             }
         ]
     }
