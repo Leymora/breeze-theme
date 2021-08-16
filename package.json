@@ -2,7 +2,7 @@
     "name": "breeze-theme",
     "displayName": "Breeze Theme",
     "description": "The color theme from Breeze Engine",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Woosh",
     "repository": {
         "type": "git",
