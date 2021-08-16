@@ -41,7 +41,7 @@
 		"peekViewEditor.background": "#3b4147",
 		"menu.background": "#3b4147",
 
-		"gitDecoration.modifiedResourceForeground": "#BDCFA7",
+		"gitDecoration.modifiedResourceForeground": "#8fa575",
 		"list.inactiveSelectionForeground": "#e6e2e2",
 		"list.focusOutline": "#3b7a97",
 		"progressBar.background": "#7BABBA",
@@ -72,7 +72,7 @@
 			"string constant.other.placeholder"
 		  ],
 		  "settings": {
-			"foreground": "#7BABBA"
+			"foreground": "#ad7979"
 		  }
 		},
 		{
@@ -107,7 +107,7 @@
 			"storage.modifier"
 		  ],
 		  "settings": {
-			"foreground": "#CF9DAB"
+			"foreground": "#bd939f"
 		  }
 		},
 		{
@@ -150,7 +150,7 @@
 			"keyword.other.special-method"
 		  ],
 		  "settings": {
-			"foreground": "#BDCFA7"
+			"foreground": "#adc98b"
 		  }
 		},
 		{
@@ -278,7 +278,7 @@
 		  "name": "Attributes",
 		  "scope": ["entity.other.attribute-name"],
 		  "settings": {
-			"foreground": "#CF9DAB"
+			"foreground": "#bd939f"
 		  }
 		},
 		{
@@ -590,7 +590,7 @@
 			"punctuation.section.class.end"
 		  ],
 		  "settings": {
-			"foreground": "#CF9DAB"
+			"foreground": "#bd939f"
 		  }
 		},
 		{
