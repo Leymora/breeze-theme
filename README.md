@@ -5,8 +5,8 @@ This will add the Dawn and Graphite color themes from Breeze Engine
 
 
 ### For more information
-🔗 [Breeze Engine Github](https://github.com/SentimentalWoosh/Breeze)
+🔗 [Breeze Engine Github](https://github.com/Leymora/Breeze)
 ##
-🔗 [Breeze Theme Github](https://github.com/SentimentalWoosh/breeze-theme)
+🔗 [Breeze Theme Github](https://github.com/Leymora/breeze-theme)
 
-**~ Woosh**
+**~ Leymora**

@@ -3,10 +3,10 @@
     "displayName": "Breeze Theme",
     "description": "The color theme from Breeze Engine",
     "version": "0.0.3",
-    "publisher": "Woosh",
+    "publisher": "Leymora",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SentimentalWoosh/breeze-theme"
+        "url": "https://github.com/Leymora/breeze-theme"
     },
     "engines": {
         "vscode": "^1.59.0"
@@ -14,7 +14,7 @@
     "keywords": [
         "theme",
         "dark theme",
-        "woosh",
+        "leymora",
         "breeze engine",
         "breeze theme",
         "dawn",
