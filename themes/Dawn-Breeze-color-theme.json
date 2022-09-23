@@ -16,6 +16,8 @@
 		"tab.border": "#3a2a2f",
 
 		"statusBar.background": "#973B3B",
+		"statusBar.noFolderBackground": "#973B3B",
+		"statusBar.debuggingBackground": "#3b6e97",
 		"activityBarBadge.background": "#973B3B",
 		"list.activeSelectionBackground": "#973B3B",
 		"focusBorder": "#973B3B",
@@ -51,11 +53,15 @@
 		"titleBar.activeForeground": "#e6e2e2",
 		"titleBar.inactiveForeground": "#b4b1b1",
 		"editor.selectionBackground": "#795157",
+		"editorBracketHighlight.foreground1": "#b795c0",
+		"editorBracketHighlight.foreground2": "#7b89c9",
+		"editorBracketHighlight.foreground3": "#c98b7b",
 		"editor.foreground": "#bbbbbb",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"diffEditor.insertedTextBackground": "#9fffb80e"
 	},
 	"tokenColors": [
+		
 		{
 		  "name": "Comment",
 		  "scope": ["comment", "punctuation.definition.comment"],
