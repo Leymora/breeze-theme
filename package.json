@@ -34,6 +34,11 @@
                 "label": "Breeze - Graphite",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Graphite-Breeze-color-theme.json"
+            },
+            {
+                "label": "Breeze - Beige",
+                "uiTheme": "vs",
+                "path": "./themes/Beige-Breeze-color-theme.json"
             }
         ]
     }
